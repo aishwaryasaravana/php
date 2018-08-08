@@ -1,0 +1,18 @@
+<html>
+<head>
+<meta http-equiv="content type" content="text/html;charset=UTF-8">
+<title></title>
+</head>
+<body>
+<?php
+  $text1 = "welcome to my php";
+  $text2 = "ww3.school.com";
+  $x = 5;
+  $y = 4;
+echo "<h2> $text1 </h2>";
+echo "study php at $text2 <br>";
+echo "the added output is";
+echo $x + $y;
+?>
+</body>
+</html>
